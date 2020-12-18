@@ -5,7 +5,7 @@ interface ErrorHandling {
     success: boolean;
     error?: { message: string };
 }
-  
+
 interface ArtworksData {
     artworks: { title: string }[];
 }

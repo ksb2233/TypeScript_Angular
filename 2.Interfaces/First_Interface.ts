@@ -1,5 +1,5 @@
 /**
- * 
+ * 인터페이스 동작 예제
  */
 interface LabeledValue {
     label: string;
